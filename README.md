@@ -98,4 +98,4 @@ The following models were trained and evaluated:
 
 Users can manually enter a news article, and the system predicts whether it is **Fake** or **Genuine** using multiple models.
 
-### Example Output:
+
