@@ -1,4 +1,4 @@
-Fake News Detection System Model
+**Fake News Detection System Model**
 # 📰 Fake News Detection System using Machine Learning
 
 This project is a **Machine Learning–based Fake News Detection System** that classifies news articles as **Fake** or **Genuine** using **Natural Language Processing (NLP)** and multiple supervised learning algorithms.
